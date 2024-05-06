@@ -1,0 +1,1 @@
+{"name":"LuauNet","className":"Folder","filePaths":["default.project.json"],"children":[{"name":"DataTypes","className":"ModuleScript","filePaths":["src\\DataTypes.luau"]},{"name":"Network","className":"ModuleScript","filePaths":["src\\Network\\init.luau"],"children":[{"name":"Event","className":"ModuleScript","filePaths":["src\\Network\\Event.luau"]}]}]}
